@@ -1,3 +1,13 @@
-1. git init untuk inisiasi repository 
+1. git init untuk inisialisasi sebuah project git baru
 2. ls -a untuk mengecek
-3. git status untuk mengecek
+3. git status untuk melihat status perubahan didalam project git
+4. git add [nama file] {MENAMBAHKAN FILE KEDALAM STAGING AREA}
+5. git commit -m "git.txt" {MENULISKAN BERITA ACARA DAN MEMINDAHKAN KEDALAM LOCAL REPOSITORY}
+6. git add . {MENAMBAHKAN SEMUA FILE}
+
+
+LOCAL REPOSITORY = TERSIMPAN DI DEVICE
+REMOTE REPOSITORY = TERSIMPAN DI CLOUD
+
+jika melakukan perubahan tekan git add ; git commit -m ""
+
