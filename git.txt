@@ -5,6 +5,9 @@
 5. git commit -m "git.txt" {MENULISKAN BERITA ACARA DAN MEMINDAHKAN KEDALAM LOCAL REPOSITORY}
 6. git add . {MENAMBAHKAN SEMUA FILE}
 
+git remote add origin https://github.com/yohaneskohl/belajar-git.git
+git branch
+git push -u origin main
 
 LOCAL REPOSITORY = TERSIMPAN DI DEVICE
 REMOTE REPOSITORY = TERSIMPAN DI CLOUD
